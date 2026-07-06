@@ -1,6 +1,4 @@
-Hi,
 
-Congratulations on progressing to the technical interview stage with Carlsberg Group Data Analytics.
 
 This role is for a **Demand Forecasting Data Scientist** responsible for **model stack optimisation**. The current forecasting stack consists of multiple algorithms, including the one you will be working with in this case study: **LightGBM (LGBM)**.
 
@@ -51,12 +49,3 @@ A few points to highlight:
 * `Segment` is another way of describing the SKU type at a more granular level.
 * `CalendarWeek` is capped at 52 weeks per year.
 
-If you are successful in this interview, the next step will be an opportunity to meet my team. This will give both you and us a chance to understand whether there is a good mutual fit before a final decision is made from both sides.
-
-I look forward to hearing about your approach and findings.
-
-Best regards,
-Peng Wang
-Data Product Owner - Integrated Supply Chain
-Carlsberg Group
-# Forcasting-with-LightGBM-SHAP
